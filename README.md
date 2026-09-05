@@ -1,0 +1,2 @@
+# yahoo-auction-seller-blocker
+
